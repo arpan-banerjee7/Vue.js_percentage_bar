@@ -1,5 +1,7 @@
 # percentage-scroll
 
+![](app_image.JPG)
+
 ## Project setup
 ```
 npm install
